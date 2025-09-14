@@ -1,0 +1,4 @@
+opencv-python>=4.5.5
+ultralytics>=8.0.0
+easyocr>=1.4.1
+numpy>=1.21.0
